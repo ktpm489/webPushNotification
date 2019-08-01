@@ -1,4 +1,4 @@
-const publicVapidKey = 'BOynOrGhgkj8Bfk4hsFENAQYbnqqLSigUUkCNaBsAmNuH6U9EWywR1JIdxBVQOPDbIuTaj0tVAQbczNLkC5zftw';
+const publicVapidKey = 'BIQiDoTRUri_-ErZgGZuu2lvieBikhWhMhU0zFBrCsZ_mCB_AwPZRzDMQWo-83rdQoyX3cNmRPLADQ-ExxO0IB0';
 
 if ('serviceWorker' in navigator) {
   console.log('Registering service worker');
